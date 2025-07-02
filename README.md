@@ -11,9 +11,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 * **Git**
     * [Download Git](https://git-scm.com/downloads)
 * **IDE (Ambiente de Desenvolvimento Integrado) de sua preferência:**
-    * [VS Code](https://code.visualstudio.com/) com `Extension Pack for Java`
-    * [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/)
-    * [Eclipse IDE for Enterprise Java Developers](https://www.eclipse.org/downloads/packages/)
+    * [VS Code](https://code.visualstudio.com/) 
 
 ## Como Rodar o Projeto
 
