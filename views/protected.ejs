@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,11 +15,11 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome, <%= username %>!</h1>
-        <p>This is a protected page. You are successfully logged in.</p>
-        <p>Your session will expire in 5 minutes.</p>
+        <h1>Bem vindo, <%= username %>!</h1>
+        <p>Essa pagina é protegida por login, se você conseguiu acessar é pq o sistema esta funcionando. \o/ </p>
+        <p>A session vai durar apenas 5min, mas não tem muita coisa por aqui então é bastante tempo.</p>
         <form action="/logout" method="POST">
-            <button type="submit" class="btn">Logout</button>
+            <button type="submit" class="btn">Deslogar</button>
         </form>
     </div>
 </body>
